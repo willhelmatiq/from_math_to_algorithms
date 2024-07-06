@@ -39,7 +39,7 @@ def compute_pi_with_error_average(n_start, n_end, step, n):
     return error, number_of_points
 
 n_start = 1000
-n_end = 10000
+n_end = 100000
 step = 1000
 
 # Compute errors and number of points
